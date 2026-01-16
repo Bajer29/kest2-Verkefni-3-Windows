@@ -1,1 +1,9 @@
+💥Here im gonna begging with the questions of my first Lab💥.
 
+⭐Part 1: Installing Third-Party Software 
+❔Question: What is the default installation location for Packet Tracer?
+👉Answer: C:\Program Files\Cisco Packet Tracer 9.0.0
+
+⭐Part 2: Uninstalling Third-Party Software 
+❔Question: Why does Microsoft recommend using Uninstall or change a program to remove an installed application?
+👉Answer: Because it properly removes program files, registry entries, and system components, ensuring the application is completely and safely removed without leaving residual data that could cause system issues.
