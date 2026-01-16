@@ -1,1 +1,26 @@
 Here im gonna begging with the questions of my first Lab.
+
+⭐Step 1: Boot your computer. 
+❔Question: 
+-What key or combination of keys is used to run Setup on your computer? 
+👉#Answer: 
+
+⭐Step 2: Restart your computer and enter Setup. 
+The BIOS Setup Utility or UEFI screen appears. 
+❔Questions: 
+-Who is the manufacturer of the BIOS? 
+👉#Answer: American Megatrends International, LLC.
+-Which BIOS version is installed in your computer? 
+👉#Answer:  X1504VAPF.303 (18/04/2025)
+
+⭐Step 3: Search the Internet to find the most current version of BIOS for the 
+motherboard.
+❔Questions: 
+-What is the current BIOS version available for the motherboard?  
+👉#Answer: Version 313.
+-What features, if any, have been added to the new BIOS version? 
+👉#Answer: No new features are specifically listed by the manufacturer; general system stability improvements.
+-What changes, if any, have been made to the new BIOS version to fix problems? 
+👉#Answer: Includes multiple security updates (CVE fixes) and firmware improvements.
+-What are the instructions to update the new BIOS version? 
+👉#Answer: Download the BIOS file from the ASUS support website, copy it to a USB drive, enter BIOS Setup, and use the EZ Flash Utility to update the BIOS.
