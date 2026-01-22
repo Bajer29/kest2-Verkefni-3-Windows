@@ -26,8 +26,12 @@ Taskbar: open or pinned apps, search, task view, notification area (network, sou
 -System tray icons: Pen Menu, Touch keyboard.
 -Other System Tray Icons: Hidden icon menu: Microsoft OneDrive, Windows Security notification icon.
 -What are the available options in the Task View settings? 
-👉#Answer:See all open windows, Switch between apps quickly, Create virtual desktops (New desktop / “+”), Switch between Desktop 1 / Desktop 2, Move windows between desktops (dragging or right-click).
+👉#Answer: See all open windows, Switch between apps quickly, Create virtual desktops (New desktop / “+”), Switch between Desktop 1 / Desktop 2, Move windows between desktops (dragging or right-click).
 -What happened? 
-👉#Answer:
+👉#Answer: The application opened as a separate window on Desktop 2.  
+
+Each desktop maintains its own set of windows (they don’t get mixed), even though it’s the same program.
+-List some examples of system information below. 
+👉#Answer: Wi-Fi / Ethernet status, Volume / sound, Battery (if it's a laptop/VM with virtual battery), Time and date, Notifications, Language/keyboard (ENG/ESP), Bluetooth (if available).
 -What can you do in the Notification & actions Settings window?
-👉#Answer:
+👉#Answer: Turn system notifications on or off, Choose which apps can send notifications, Set up banners, sounds, and priority, Adjust behaviors like “Do Not Disturb” / focus (depending on version), Manage notifications on the lock screen (depending on available options).
