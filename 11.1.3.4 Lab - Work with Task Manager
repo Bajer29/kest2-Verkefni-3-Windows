@@ -1,0 +1,33 @@
+💥Here im gonna begging with the questions of my fifth lab💥.
+
+⭐Part 1: Applications tab. 
+❔Questions: 
+-To force the web browser to close, highlight the browser, and click End task. What happened? 
+👉#Answer: 
+-Open the web browser again. Right-click the web browser in the Task Manager. What options are available? 
+👉#Answer: 
+
+⭐Part 2: Services tab.   
+❔Question: 
+-   
+👉#Answer: 
+
+⭐Part 6: Convert the ITE volume from FAT32 to NTFS without losing data.  
+❔Question: 
+-What happens if you do not run as administrator when you open the command prompt? 
+👉#Answer: It won't let you convert the disk.
+An error of the type usually appears:
+
+“Access is denied”
+or
+“You must be an administrator running a console session…”
+
+⭐Part 7: Open the This PC window to work with the ITE Volume.   
+❔Questions: 
+-What type of File System is used for the ITE (I:) drive? 
+👉#Answer: NTFS.
+-What are the tabs in the ITE (I:) Properties window? 
+👉#Answer: General, Tools, Hardware, Sharing, Customize, Previous Versions, Security, Quota.
+-When the volume was FAT32, there were six tabs. What are the names of the new tabs that were added 
+after the volume was converted to NTFS?
+👉#Answer: Security, Quota.
