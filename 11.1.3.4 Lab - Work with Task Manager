@@ -3,61 +3,63 @@
 ⭐Part 1: Applications tab. 
 ❔Questions: 
 -To force the web browser to close, highlight the browser, and click End task. What happened? 
-👉#Answer: 
+👉#Answer: The browser was forcibly closed and disappeared from the list of applications.
 -Open the web browser again. Right-click the web browser in the Task Manager. What options are available? 
-👉#Answer: 
+👉#Answer: Expand, End task, Resource values: Memory, Disk and Network; Provide feedback, Search online, others...
 
 ⭐Part 2: Services tab.   
-❔Question: 
+❔Questions: 
 - What statuses are listed? 
-👉#Answer: 
+👉#Answer: The states that appear on the list are: Running / Stopped.
 -What are the available actions that can be taken? 
-👉#Answer: 
+👉#Answer:On my computer, the following appear: Start, Stop, Restart, Open Services, Search online and Go to details.
 
 ⭐Part 3: Performance tab.
 ❔Questions: 
 - What is the current utilization of the CPU? 
-👉#Answer:
+👉#Answer: The current utilization is 90%
 -How many streams of instructions (i.e. Threads) are currently running?
-👉#Answer:
+👉#Answer: Currently Threads running: 1500.
 -How many Apps, Background processes, and Windows processes (i.e Processes) are currently running? 
-👉#Answer:
+👉#Answer: There are 134 Processes currently running.
 -What is the total physical memory (MB)?
-👉#Answer:
+👉#Answer: Total: 4096 MB.
 -What is the available physical memory (MB)? 
-👉#Answer:
+👉#Answer: Available: 1740,8 MB.
 -How much physical memory (MB) is being used by the computer? 
-👉#Answer:
+👉#Answer: In use: 84.8 MB.
 -What is the link speed? What type of Ethernet Adapter is in use on this computer? 
-👉#Answer:
+👉#Answer: 64 Kbps. It is an Ethernet Adapter.
 -What type of network connection (i.e Connection type) is in use? 
-👉#Answer:
+👉#Answer: Ethernet.
 -What is the IPv4 address of the PC? 
-👉#Answer:
+👉#Answer: 10.0.2.15
 
 ⭐Part 4: Processes tab. 
 ❔Questions:
 -What effect does this have on the columns? 
-👉#Answer:
+👉#Answer: Sort the list by memory usage, and pressing again reverses the order (highest→lowest / lowest→highest).
 -What affect does this have on the Memory column? 
-👉#Answer:
+👉#Answer: The Memory column changes from displaying values (MB/GB) to showing usage percentages.
 -How could this be useful? 
-👉#Answer:
+👉#Answer: Allows you to quickly compare which processes consume the largest proportion of RAM, without relying on the total memory size of the computer.
 -The listed processes are divided by categories. What categories are listed? 
-👉#Answer:
+👉#Answer: The categories that appear are: Apps, Background processes and Windows processes.
 
 ⭐Part 5: Users tab. 
 ❔Question:
 -What are the available options? 
-👉#Answer: 
+👉#Answer: Expand, Disconnect and Manage user accounts.
 
 ⭐Part 6: Startup, App history and Details tabs. 
 ❔Questions:
 -List the available options below. 
-👉#Answer: 
+👉#Answer: Expand, Disable, Open file location, Search online and Properties.
 -What type of information can you get from this list? 
-👉#Answer: 
+👉#Answer: Shows resource usage history by application, such as CPU time / network usage (and depending on the system, also measured consumption), to see which apps have used the most resources over a period.
+-List the available options
+👉#Answer: End task, End process tree, Provide Feedback, Efficiency mode, Set priority, Set affinity, Analyze wait chain, UAC virtualization, Crate memory dump file, Open file location, Search online, Properties and Go to Service(s).
 
 💭Reflection Question💭
 -Why is it important for an administrator to understand how to work within the Task Manager? 
-👉#Answer:
+👉#Answer: Because it allows monitoring performance (CPU/RAM/network), identifying bottlenecks, detecting processes that consume resources abnormally, terminating frozen applications or processes, checking services and their status, and analyzing what runs at startup. This helps to resolve issues, improve stability, and keep the system under control.
