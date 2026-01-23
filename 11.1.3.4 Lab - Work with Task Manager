@@ -9,25 +9,55 @@
 
 ⭐Part 2: Services tab.   
 ❔Question: 
--   
+- What statuses are listed? 
+👉#Answer: 
+-What are the available actions that can be taken? 
 👉#Answer: 
 
-⭐Part 6: Convert the ITE volume from FAT32 to NTFS without losing data.  
-❔Question: 
--What happens if you do not run as administrator when you open the command prompt? 
-👉#Answer: It won't let you convert the disk.
-An error of the type usually appears:
-
-“Access is denied”
-or
-“You must be an administrator running a console session…”
-
-⭐Part 7: Open the This PC window to work with the ITE Volume.   
+⭐Part 3: Performance tab.
 ❔Questions: 
--What type of File System is used for the ITE (I:) drive? 
-👉#Answer: NTFS.
--What are the tabs in the ITE (I:) Properties window? 
-👉#Answer: General, Tools, Hardware, Sharing, Customize, Previous Versions, Security, Quota.
--When the volume was FAT32, there were six tabs. What are the names of the new tabs that were added 
-after the volume was converted to NTFS?
-👉#Answer: Security, Quota.
+- What is the current utilization of the CPU? 
+👉#Answer:
+-How many streams of instructions (i.e. Threads) are currently running?
+👉#Answer:
+-How many Apps, Background processes, and Windows processes (i.e Processes) are currently running? 
+👉#Answer:
+-What is the total physical memory (MB)?
+👉#Answer:
+-What is the available physical memory (MB)? 
+👉#Answer:
+-How much physical memory (MB) is being used by the computer? 
+👉#Answer:
+-What is the link speed? What type of Ethernet Adapter is in use on this computer? 
+👉#Answer:
+-What type of network connection (i.e Connection type) is in use? 
+👉#Answer:
+-What is the IPv4 address of the PC? 
+👉#Answer:
+
+⭐Part 4: Processes tab. 
+❔Questions:
+-What effect does this have on the columns? 
+👉#Answer:
+-What affect does this have on the Memory column? 
+👉#Answer:
+-How could this be useful? 
+👉#Answer:
+-The listed processes are divided by categories. What categories are listed? 
+👉#Answer:
+
+⭐Part 5: Users tab. 
+❔Question:
+-What are the available options? 
+👉#Answer: 
+
+⭐Part 6: Startup, App history and Details tabs. 
+❔Questions:
+-List the available options below. 
+👉#Answer: 
+-What type of information can you get from this list? 
+👉#Answer: 
+
+💭Reflection Question💭
+-Why is it important for an administrator to understand how to work within the Task Manager? 
+👉#Answer:
