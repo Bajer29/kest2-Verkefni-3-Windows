@@ -1,24 +1,76 @@
-💥Here im gonna begging with the questions of my sixth lab💥.
+💥Here im gonna begging with the questions of my Lab 6 – Working with File Explorer💥.
 
-⭐Part 1: 
-❔Questions: 
--
-👉#Answer:
-- 
-👉#Answer:
-- 
-👉#Answer:
+⭐Part 1: Explore File Explorer 
+❔Questions:
 
-⭐Part 2:  
-❔Question: 
--   
-👉#Answer:
+-What happened with Folder1 and Folder2 on the Desktop?
 
-⭐Part 3:  
-❔Question: 
-- 
-👉#Answer:
+👉#Answer: When Folder2 is moved inside Folder1, Folder2 no longer appears separately on the Desktop. It becomes a subfolder inside Folder1, so only Folder1 is visible on the Desktop, and Folder2 is found inside it.
 
-💭Reflection Question💭
-- 
-👉#Answer: 
+-What is the file extension for the text document?
+
+👉#Answer: The file extension is .txt.
+
+-How would you do it? (Make a copy of the text document and place it in Folder2.)
+
+👉#Answer: Right-click the text file and select Copy, open Folder2, then right-click and select Paste.
+
+Alternatively, use Ctrl + C to copy and Ctrl + V to paste.
+
+You can also drag the file into Folder2 while holding Ctrl to copy it.
+
+-What are the attributes associated with this file? (Properties > Details tab)
+
+👉#Answer: Name: Text document txt, Type: Text Document, File location: C:\Users\vboxuser\Desktop\Folder1\Folder2, Size: 0 bytes, Date created: 1/26/2026 3:26PM, Date modified: 1/26/2026 3:20PM, Attributes: A, Owner: WINDOWS\vboxuser, Computer: WINDOWS (thisPC). 
+
+-What is the complete path to Folder3?
+
+👉#Answer: C:\Users\vboxuser\Desktop\Folder1\Folder2\Folder3
+
+-Which directories are listed under Quick access?
+
+👉#Answer: Desktop, Downloads, Documents, Pictures, Music, Videos and Folder1.
+
+-What happened? Why would you want to do this? (Drag Folder1 to Quick access)
+
+👉#Answer:Folder1 becomes pinned to Quick access. The folder is not moved or duplicated; only a shortcut is created.
+
+This is useful because it allows faster access to Folder1 without navigating through the Desktop each time.
+
+-What are folders listed in the Local Disk (C:)?
+
+👉#Answer: inetpub, PerdLogs, Program Files, Program Files (x86), Users Windows, Windows.old, vboxpostinstall.log .
+
+-Open the Users folder. List all the folders in the directory.
+
+👉#Answer: Public and vboxuser.
+
+-Were you able to open it? Explain. (your username folder)
+
+👉#Answer: Yes, I was able to open it because my user account has permission to access its own user directory.
+
+-Were you able to open it? Explain. (another username folder)
+
+👉#Answer: I could open it because i have read permissions.
+
+-Open the Public folder. List all the folders in the directory.
+
+👉#Answer: Public Documents, Public Downloads, Public Music, Public Pictures and Public Videos.
+
+⭐Part 2: Windows Libraries, Step 2: Access Libraries in Windows 11:
+
+❔Question:
+
+-Which folders or files listed under the Libraries heading?
+
+👉#Answer: Documents, Pictures, Music, Videos.
+
+-How would you remove the directory of Folder1 from the library without deleting Folder1 and its contents from the computer?
+
+👉#Answer: To remove Folder1 from the library without deleting it from the computer, right-click the library and select Properties.
+
+In the list of included locations, select Folder1 and click Remove.
+
+Then click OK to apply the changes.
+
+This action only removes Folder1 from the library view and does not delete the actual folder or its contents from the Desktop.
