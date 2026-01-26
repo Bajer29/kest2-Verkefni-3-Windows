@@ -21,7 +21,7 @@ You can also drag the file into Folder2 while holding Ctrl to copy it.
 
 -What are the attributes associated with this file? (Properties > Details tab)
 
-👉#Answer: Name: Text document txt, Type: Text Document, File location: C:\Users\vboxuser\Desktop\Folder1\Folder2, Size: 0 bytes, Date created: 1/26/2026 3:26PM, Date modified: 1/26/2026 3:20PM, Attributes: A, Owner: WINDOWS\vboxuser, Computer: WINDOWS (thisPC). 
+👉#Answer: Name: Text Document.txt, Type: Text Document, File location: C:\Users\vboxuser\Desktop\Folder1\Folder2, Size: 0 bytes, Date created: 1/26/2026 3:26PM, Date modified: 1/26/2026 3:20PM, Attributes: A (A = Archive), Owner: WINDOWS\vboxuser, Computer: WINDOWS (thisPC). 
 
 -What is the complete path to Folder3?
 
@@ -39,7 +39,7 @@ This is useful because it allows faster access to Folder1 without navigating thr
 
 -What are folders listed in the Local Disk (C:)?
 
-👉#Answer: inetpub, PerdLogs, Program Files, Program Files (x86), Users Windows, Windows.old, vboxpostinstall.log .
+👉#Answer: Program Files, Program Files (x86), Users, Windows, Windows.old, PerfLogs, inetpub.
 
 -Open the Users folder. List all the folders in the directory.
 
