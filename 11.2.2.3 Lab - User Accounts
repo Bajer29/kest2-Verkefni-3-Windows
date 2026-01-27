@@ -1,0 +1,51 @@
+💥Here im gonna begging with the questions of my eighth lab💥.
+
+⭐Part 2: Change the Account Type.
+
+❔Question:
+
+-What is the advantage of having most users work within a Standard user account?
+
+👉#Answer:
+
+The advantage of using a Standard user account is improved system security. Standard users cannot install software, change system-wide settings, or make critical changes without administrator approval. This helps prevent accidental system damage and reduces the risk of malware or unauthorized changes.
+
+⭐Part 3: Delete the Account.
+
+❔Question:
+
+-For this lab, select Delete Files. What are the other options? When would you choose the other options?
+
+👉#Answer:
+
+The other option is Keep Files.
+
+You would choose Keep Files when you want to remove a user account but preserve the user’s personal data, such as documents or desktop files, for backup, transfer to another user, or future reference.
+
+Delete Files is chosen when the user no longer needs access and their data is no longer required.
+
+💭Reflection Questions💭
+
+❔Question 1:
+
+-Why is it important to protect all accounts with strong passwords?
+
+👉#Answer:
+
+Strong passwords help prevent unauthorized access to user accounts, protect personal and sensitive data, and reduce the risk of security breaches, identity theft, and malware infections. 
+
+❔Question 2:
+
+-Why would you create a user with Standard privileges?
+
+👉#Answer:
+
+A Standard user account is created to limit the user’s ability to make system-level changes, improving security and system stability while still allowing normal daily tasks such as using applications and accessing files. 
+
+❔Question 3:
+
+-In what type of situation would an IT administrator delete a user account and choose to keep the files of that user account instead of deleting them?
+
+👉#Answer:
+
+An IT administrator would keep the files when an employee leaves an organization but their work documents need to be reviewed, archived, or transferred to another employee or department. 
