@@ -1,0 +1,58 @@
+💥Here im gonna begging with the questions of my ninth lab💥.
+
+⭐ Part 1: Open System Properties.
+
+❔Question:
+
+-What is the current size of the virtual memory (paging file)?
+
+👉#Answer: The current size of the total paging file size for all drives is: 1408MB.
+
+⭐ Part 2: Make virtual memory changes.
+
+❔Question:
+
+-What Drive [Volume Label] contains the paging file?
+
+👉#Answer:
+C: [Windows] is using System managed virtual memory, meaning it's automatically controlling the paging file size.
+
+I: [ITE] shows None, meaning it is not currently using the paging file.
+
+❔Question:
+
+-What is the recommended paging file size for all drives?
+
+👉#Answer: The recommended paging file size for all drives is 1405MB.
+
+❔Question:
+
+-What Drive [Volume Label] contains the paging file?
+
+👉#Answer:
+
+⭐ Part 3: Navigate back to the Virtual Memory window to verify changes.
+
+❔Question:
+
+-What Drive [Volume Label] contains the paging file?
+
+👉#Answer: It still has the same Volume Label, which is C: [Windows].
+
+⭐ Part 4: Reset the virtual memory back to the original settings.
+
+💭Reflection Questions💭
+
+-Why would you ever change the default virtual memory page file settings in Windows?
+
+👉#Answer:
+
+Changing the default virtual memory page file settings can be useful in situations where:
+
+More storage space is required for the paging file on another partition (e.g., if C: is running out of space).
+
+You want to improve performance by manually setting the size of the paging file.
+
+The system is running low on memory and you need to adjust virtual memory settings to prevent crashes or errors.
+
+Multiple partitions are present, and you want to store the paging file on a specific drive for performance reasons. 
