@@ -1,0 +1,57 @@
+💥Here im gonna begging with the questions of my Lab 11 – Monitor and Manage System Resources💥.
+
+⭐ Part 2: Explore the Impact of Services.
+Step 1: Verify printing service.
+
+❔Question:
+-Record a listed printer.
+
+👉#Answer:
+
+Microsoft Print to PDF is available as a printer.
+
+Step 2: Stop Print Spooler
+
+❔Question:
+-What message did you receive? How would you fix this?
+
+👉#Answer:
+
+The message indicates that no printers are available or that the Print Spooler service is not running.
+
+To fix this issue, restart the Print Spooler service by going back to the Services console, right-clicking Print Spooler, and selecting Start.
+
+Step 4: Explore DHCP Client service.
+
+❔Question:
+-When DHCP Client stops, what other services will also be stopped?
+
+👉#Answer:
+
+The window will list services that depend on DHCP Client, such as Windows Connection Manager, IP Helper and WinHTTP Web Proxy Auto-Discovery Services.
+
+❔Question:
+-Why is it important to exercise care when managing services?
+
+👉#Answer:
+
+It is important to exercise care because stopping or modifying critical services can cause system instability, loss of network connectivity, application failures, or even prevent Windows from functioning correctly.
+
+⭐ Part 3: Monitor and Record System Usage with System Tools.
+Step 2: Format the data collector set.
+
+❔Question:
+-What is the full path name to the example file name?
+
+👉#Answer:
+
+C:\PerfLogs\Memory Logs\DataCollector01.csv
+
+Step 3: Collect and view the data.
+
+❔Question:
+-What does the column farthest to the right show?
+
+👉#Answer:
+
+The farthest-right column shows the Available MBytes of memory, indicating how much physical memory was available at each recorded time interval.
