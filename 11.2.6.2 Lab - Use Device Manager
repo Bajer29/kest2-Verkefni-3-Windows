@@ -1,0 +1,61 @@
+💥Here im gonna begging with the questions of my Lab 10 – Use Device Manager💥.
+
+⭐ Step 1: Open Device Manager.
+
+❔Questions
+
+-What information is listed in the Device Manager window? Why would you use it?
+
+👉#Answer:
+
+Device Manager lists all hardware devices installed on the computer, organized by categories such as display adapters, monitors, network adapters, keyboards, and storage devices.
+
+It shows the status of each device and whether it is working properly.
+
+You would use Device Manager to troubleshoot hardware problems, update or roll back drivers, enable or disable devices, and install drivers for new or legacy hardware.
+
+-Browse through the menus displayed at the top of the Device Manager window. How would you install driver software for an older device that may not be automatically recognized by Windows?
+
+👉#Answer:
+
+To install driver software for an older device, you would use Action > Add legacy hardware in Device Manager and follow the installation wizard to manually select or install the driver.
+
+⭐ Step 2: Display the monitor settings on your computer
+
+❔Questions
+
+-What additional information does Driver Details provide?
+
+👉#Answer:
+
+Driver Details provides information about the driver files being used, including file names, file locations, and driver providers that are responsible for operating the device.
+
+-What two options do you have for updating the driver?
+
+👉#Answer:
+
+Search automatically for drivers
+
+Browse my computer for drivers
+
+-What does the Roll Back Driver button do? Why would it be grayed out?
+
+👉#Answer:
+
+The Roll Back Driver button restores the previous version of a driver if the current driver is causing problems.
+
+The button may be grayed out if there is no previous driver version installed or if the driver has never been updated.
+
+-What are the other available options?
+
+👉#Answer:
+
+Update Driver – installs a newer driver version
+
+Disable Device – temporarily disables the device
+
+Uninstall Device – removes the driver from the system
+
+Driver Details – shows driver file information
+
+Roll Back Driver – restores the previous driver version (if available)
