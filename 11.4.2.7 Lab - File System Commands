@@ -1,0 +1,92 @@
+💥Here im gonna begging with the questions of my Lab 15 – File System Commands💥.
+
+⭐ Part 2: Create and change directories.
+❔Question:
+
+-What is the current directory?:
+
+👉#Answer:
+The current directory is C:\Users\vboxuser.
+
+❔Question:
+
+-Which folder are you in now? (after cd ITEfolder3):
+
+👉#Answer:
+The current directory is C:\Users\vboxuser\ITEfolder3. 
+
+❔Question
+
+-What command or commands did you use to create the nested folders?
+
+👉#Answer:
+The command used was:
+
+md ITEfolder4\ITEfolder5
+
+
+This command creates both the parent and child directories in one step. 
+
+❔Question
+
+-After issuing the cd .. command, what is your directory now?
+
+👉#Answer:
+The current directory is C:\Users\ITEUser\ITEfolder3\ITEfolder4. 
+
+❔Question
+
+What would be the current directory if you issue this command at
+C:\Users\ITEUser\ITEfolder3\ITEfolder4?
+
+👉#Answer:
+The current directory would be C:\Users\ITEUser\ITEfolder3. 
+
+⭐ Part 4: Copy, delete, and move files.
+❔Question:
+
+-What single command would you use to delete all the files with doc2 in the filename?
+
+👉#Answer:
+del doc2*
+
+
+This deletes all files that contain doc2 in the filename. 
+
+❔Question:
+
+-What command would you use to delete all the files in the directory?
+
+👉#Answer:
+del *.*
+
+
+This deletes all files in the current directory (but not folders). 
+
+⭐ Part 5: Use the xcopy and robocopy commands.
+❔Question:
+
+-What option allows you to copy all the files and directories, including the empty directories?
+
+👉#Answer:
+The option is /E, which copies all subdirectories, including empty ones. 
+
+⭐ Part 6: Delete directories.
+❔Question:
+
+-Were you able to delete the directory? Explain. (using rd ITEfolder1)
+
+👉#Answer:
+No, the directory could not be deleted because it was not empty.
+
+The rd command without switches only deletes empty directories. 
+
+💭Reflection Question💭
+❔Question:
+
+-What are the advantages of using CLI vs. GUI?
+
+👉#Answer:
+The CLI allows faster execution, automation through scripts, greater control, and less resource usage compared to the GUI.
+
+It is especially useful for administrative tasks and remote system management.
