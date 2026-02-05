@@ -1,0 +1,113 @@
+💥Here im gonna begging with the questions of my Lab 17 – Task and System CLI Commands💥.
+
+⭐ Part 1: Task CLI Commands.
+Step 1: The tasklist command
+❔Question:
+
+-What command would you use to display the results of tasklist one page at a time?
+
+👉#Answer:
+The command used to display the results one page at a time is:
+
+tasklist | more.
+
+❔Question:
+
+-What is the option to list the modules that are associated with a task?
+
+👉#Answer:
+The option to list the modules associated with a task is /M. 
+
+❔Question:
+
+-What command would you use if you want to find all the tasks that use the module oleaut32.dll? List a few tasks that use oleaut32.dll.
+
+👉#Answer:
+The command used is:
+
+tasklist /M oleaut32.dll.
+
+List any processes shown (for example: explorer.exe, svchost.exe, notepad.exe, etc.). 
+
+❔Question:
+
+-What command would you use to find out all the tasks that are associated with your username?
+
+👉#Answer:
+tasklist /FI "USERNAME eq vboxuser"
+
+
+This command filters processes by the specified username. 
+
+❔Question:
+
+-What command would you use to find out all the processes that have been running for more than 1 hour and 40 minutes?
+
+👉#Answer:
+tasklist /FI "CPUTIME gt 01:40:00"
+
+
+This command lists processes with CPU time greater than 1 hour and 40 minutes. 
+
+⭐ Step 2: The taskkill command.
+❔Question:
+
+-What command would you use if you wanted to terminate all processes owned by a particular user?
+
+👉#Answer:
+taskkill /FI "USERNAME eq vboxuser"
+
+⭐ Part 2: System CLI Commands.
+Step 1: The sfc command:
+❔Question:
+
+-What option would you use if you only wanted to scan the integrity of all the protected system files?
+
+👉#Answer:
+
+The option is /verifyonly. 
+
+⭐ Step 2: The dism command.
+❔Question:
+
+-What would you add to the command so you can view the output one page at a time?
+
+👉#Answer:
+| more
+
+Example:
+
+dism /online /get-drivers /all /format:table | more
+
+⭐ Step 3: The shutdown command.
+❔Question:
+
+-Enter the command to log off your computer.
+
+👉#Answer:
+shutdown /l
+
+❔Question:
+
+-Record the command below. What warning message did you see?
+(Shut down in 120 seconds)
+
+👉#Answer:
+Command used:
+
+shutdown /s /t 120
+
+Warning message:
+
+⚠️ This depends on your system language, but typically:
+
+You are about to be signed out / Windows will shut down in 120 seconds. 
+
+❔Question:
+
+-What command would you use to abort the shutdown?
+
+👉#Answer:
+Answer:
+
+shutdown /a
