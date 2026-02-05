@@ -1,0 +1,81 @@
+💥Here im gonna begging with the questions of my Lab 16 – Disk CLI Commands💥.
+
+⭐ Part 1: The chkdsk Command Options
+❔Question
+
+-What is the option to fix errors on the drive?
+
+👉#Answer:
+The option to fix errors on the drive is /F. 
+
+❔Question:
+
+-What is the option to force the volume to dismount first if necessary?
+
+👉#Answer:
+The option to force the volume to dismount is /X. 
+
+
+❔Question:
+
+-What is the option to locate bad sectors and recover readable information?
+
+👉#Answer:
+The option to locate bad sectors and recover readable information is /R. 
+
+❔Question:
+
+-What happened? Explain. (after running chkdsk C: /F /X /R)
+
+👉#Answer:
+Answer:
+
+The system reports that the drive is in use and cannot be locked.
+
+Windows asks to schedule the disk check for the next restart.
+
+This happens because the C: drive is the active system volume. 
+
+❔Question:
+
+-What is the file system of the drive?
+
+👉#Answer:
+The file system of the drive is NTFS. 
+
+⭐ Part 2: Create a New Partition Using DiskPart.
+❔Question:
+
+-How many partitions are on the disk?
+
+👉#Answer:
+Partition 1 Recovery
+Partition 2 System
+Partition 3 Reserved
+Partition 4 Primary
+Partition 5 Primary
+Partition 6 Recovery
+
+❔Question:
+
+-What option is used to determine the maximum number of bytes that the volume can be shrink by?
+
+👉#Answer:
+The option is SHRINK QUERYMAX. 
+
+❔Question:
+
+-What is the maximum number of reclaimable bytes?
+
+👉#Answer:
+500 MB. 
+
+💭Reflection Question💭
+❔Question:
+
+-Why would an administrator prefer using CLI disk tools instead of GUI tools?
+
+👉#Answer:
+CLI disk tools provide greater control, more detailed options, automation through scripting, and faster execution compared to GUI tools.
+
+They are especially useful for advanced disk management and troubleshooting tasks.
