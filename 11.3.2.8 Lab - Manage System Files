@@ -1,0 +1,101 @@
+💥Here im gonna begging with the questions of my Lab 13 – Managing System Files💥.
+
+⭐ Part 1: Review the System Information.
+❔Processor:
+
+👉#Answer:
+My processor is 13th Gen Intel(R) Core(TM) i3-1315U, 2496 MHz, 2 Core(s), 2Logical Processor(s).
+
+❔BIOS Version/Date:
+
+👉#Answer:
+Innotek GmbH VirtualBox, 12-1-2006.
+
+❔Total Physical Memory:
+
+👉#Answer:
+I have 3.98 GB.
+
+❔DMA channels and the device using the resources:
+
+👉#Answer:
+The DMA section lists the DMA channels and the devices assigned to them, such as system timers or controllers.
+
+It lists the following: Resource, Device, Status.
+
+Channel4, DIrect memory acces controller, OK.
+
+❔Network Adapter Name:
+
+👉#Answer:
+[00000000] Microsoft Kernel Debug Network Adapter.
+
+❔Network Adapter Type:
+
+👉#Answer:
+It says not available.
+
+❔Where would you find the applications that automatically load when the computer boots?:
+
+👉#Answer:
+Applications that automatically load at startup are listed under Software Environment > Startup Programs. 
+
+
+⭐ Part 2: Review the System Configuration.
+❔What are the startup options?:
+
+👉#Answer:
+The startup options are:
+
+Normal startup
+
+Diagnostic startup
+
+Selective startup 
+
+❔Can you enable and disable services at this tab?:
+
+👉#Answer:
+Yes, services can be enabled or disabled from the Services tab by checking or unchecking them. 
+
+❔What can you do in this tab? (Tools tab):
+
+👉#Answer:
+The Tools tab allows you to launch various system utilities, such as Event Viewer, System Information, and Command Prompt, directly from System Configuration. 
+
+⭐ Part 3: Review DirectX Diagnostics.
+❔What does this tool report?:
+
+👉#Answer:
+The tool reports system information, including the operating system, processor, memory, BIOS, and DirectX version. 
+
+❔What information is listed on the Display tab?:
+
+👉#Answer:
+The Display tab lists information about the graphics adapter, such as device name, manufacturer, driver version, and display memory. 
+
+❔What information is listed on the Sound tab?:
+
+👉#Answer:
+The Sound tab lists audio device information, including device name, driver details, and sound hardware status.
+
+❔What information is listed on the Input tab?:
+
+👉#Answer:
+The Input tab lists input devices, such as keyboards, mice, and other human interface devices. 
+
+❔What information is listed on the extra tabs?:
+
+👉#Answer:
+There is not extra tabs for me.
+
+💭Reflection Questions💭.
+❔Why would it be beneficial to turn off a service in the system configuration?:
+
+👉#Answer:
+Turning off unnecessary services can improve system performance, reduce boot time, and enhance security by limiting background processes. 
+
+❔When would you use the startup tab of the system configuration tool?:
+
+👉#Answer:
+The startup tab is used to manage which programs run at system startup, helping troubleshoot slow boot times or software conflicts. 
