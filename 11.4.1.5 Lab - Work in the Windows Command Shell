@@ -1,0 +1,71 @@
+💥Here im gonna begging with the questions of my Lab 14 – Work in the Windows Commands Shell💥.
+
+⭐ Part 2: Display command help from the command prompt.
+❔Question:
+
+-What happens when you press Enter? (after help | more):
+
+👉#Answer:
+When you press Enter, the output advances one line at a time instead of one full page. 
+
+❔Question:
+
+-Fill out the functions of the following commands:
+
+👉#Answer:
+Command	Function
+CHKDSK	Checks a disk for errors and displays a status report
+COPY	Copies one or more files from one location to another
+DEL	Deletes one or more files
+DIR	Displays a list of files and directories
+DISKPART	Manages disk partitions
+EXIT	Exits the command prompt
+FORMAT	Formats a disk for use with Windows
+GPRESULT	Displays Group Policy information
+MD	Creates a new directory
+TASKLIST	Displays a list of running processes
+RD	Removes a directory
+ROBOCOPY	Copies files and directories robustly
+SHUTDOWN	Shuts down or restarts the computer
+XCOPY	Copies files and directories, including subdirectories.
+
+❔Question:
+
+-How would you create these folders C:\Users\ITEUser\a\b\c if your current directory is C:\Users\ITEUser?:
+
+👉#Answer:
+md a\b\c
+
+
+The md (or mkdir) command automatically creates all intermediate directories if they do not exist. 
+
+❔Question:
+
+-What command would you use to verify the creation of the nested directories?:
+
+👉#Answer:
+dir
+
+
+This command displays all folders and files, allowing you to verify that a, b, and c were created. 
+
+❔Question:
+
+-What command did you use to clear the screen?
+
+👉#Answer:
+cls
+
+❔Question:
+
+-What is the last command that you have used? (F7 command history):
+
+👉#Answer:
+cls
+
+❔Question:
+
+-What is the last command? (Up arrow):
+
+👉#Answer:
+md a\b\c
